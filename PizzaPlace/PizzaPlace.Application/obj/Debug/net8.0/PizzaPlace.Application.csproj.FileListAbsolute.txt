@@ -1,0 +1,11 @@
+C:\Users\ITC Dev\Documents\GitHub\pizza-place-api\PizzaPlace\PizzaPlace.Application\bin\Debug\net8.0\PizzaPlace.Application.deps.json
+C:\Users\ITC Dev\Documents\GitHub\pizza-place-api\PizzaPlace\PizzaPlace.Application\bin\Debug\net8.0\PizzaPlace.Application.dll
+C:\Users\ITC Dev\Documents\GitHub\pizza-place-api\PizzaPlace\PizzaPlace.Application\bin\Debug\net8.0\PizzaPlace.Application.pdb
+C:\Users\ITC Dev\Documents\GitHub\pizza-place-api\PizzaPlace\PizzaPlace.Application\obj\Debug\net8.0\PizzaPlace.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITC Dev\Documents\GitHub\pizza-place-api\PizzaPlace\PizzaPlace.Application\obj\Debug\net8.0\PizzaPlace.Application.AssemblyInfoInputs.cache
+C:\Users\ITC Dev\Documents\GitHub\pizza-place-api\PizzaPlace\PizzaPlace.Application\obj\Debug\net8.0\PizzaPlace.Application.AssemblyInfo.cs
+C:\Users\ITC Dev\Documents\GitHub\pizza-place-api\PizzaPlace\PizzaPlace.Application\obj\Debug\net8.0\PizzaPlace.Application.csproj.CoreCompileInputs.cache
+C:\Users\ITC Dev\Documents\GitHub\pizza-place-api\PizzaPlace\PizzaPlace.Application\obj\Debug\net8.0\PizzaPlace.Application.dll
+C:\Users\ITC Dev\Documents\GitHub\pizza-place-api\PizzaPlace\PizzaPlace.Application\obj\Debug\net8.0\refint\PizzaPlace.Application.dll
+C:\Users\ITC Dev\Documents\GitHub\pizza-place-api\PizzaPlace\PizzaPlace.Application\obj\Debug\net8.0\PizzaPlace.Application.pdb
+C:\Users\ITC Dev\Documents\GitHub\pizza-place-api\PizzaPlace\PizzaPlace.Application\obj\Debug\net8.0\ref\PizzaPlace.Application.dll

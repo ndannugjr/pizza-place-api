@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ITC Dev\\Documents\\GitHub\\pizza-place-api\\PizzaPlace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E7F4E8-FC9A-4FE0-91C9-DFFD75D11BC0}|PizzaPlace.Api\\PizzaPlace.Api.csproj|c:\\users\\itc dev\\documents\\github\\pizza-place-api\\pizzaplace\\pizzaplace.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8E7F4E8-FC9A-4FE0-91C9-DFFD75D11BC0}|PizzaPlace.Api\\PizzaPlace.Api.csproj|solutionrelative:pizzaplace.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E7F4E8-FC9A-4FE0-91C9-DFFD75D11BC0}|PizzaPlace.Api\\PizzaPlace.Api.csproj|c:\\users\\itc dev\\documents\\github\\pizza-place-api\\pizzaplace\\pizzaplace.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8E7F4E8-FC9A-4FE0-91C9-DFFD75D11BC0}|PizzaPlace.Api\\PizzaPlace.Api.csproj|solutionrelative:pizzaplace.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ITC Dev\\Documents\\GitHub\\pizza-place-api\\PizzaPlace\\PizzaPlace.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PizzaPlace.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ITC Dev\\Documents\\GitHub\\pizza-place-api\\PizzaPlace\\PizzaPlace.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PizzaPlace.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T08:22:16.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ITC Dev\\Documents\\GitHub\\pizza-place-api\\PizzaPlace\\PizzaPlace.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "PizzaPlace.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\ITC Dev\\Documents\\GitHub\\pizza-place-api\\PizzaPlace\\PizzaPlace.Api\\appsettings.json",
+              "RelativeToolTip": "PizzaPlace.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T08:22:12.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

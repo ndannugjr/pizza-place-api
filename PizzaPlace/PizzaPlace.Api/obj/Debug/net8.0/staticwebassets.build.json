@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9uWFN8wlhPlGFrEeq86Z5Q3T+QsIbe9/flfrXlwOVy4=",
+  "Source": "PizzaPlace.Api",
+  "BasePath": "_content/PizzaPlace.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
